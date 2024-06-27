@@ -1,0 +1,1 @@
+console.log("Welcome to Oluwamayowa Olawumi's website!");
