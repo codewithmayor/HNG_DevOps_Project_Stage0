@@ -2,7 +2,7 @@
 
 # Oluwamayowa Olawumi's Static Website
 
-Welcome to my static website project! This site showcases my personal profile as part of the HNG Internship. The site is built with HTML, CSS, and JavaScript, and it includes features like a button to toggle additional information about me.
+Welcome to my static website project! This site showcases my brief personal profile as part of the HNG Internship. The site is built with HTML, CSS, and JavaScript, and it includes features like a button to toggle additional information about me.
 
 ## Table of Contents
 
