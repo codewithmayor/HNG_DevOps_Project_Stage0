@@ -48,8 +48,8 @@ This project involves deploying a static website on a cloud platform using a web
 1. **Clone the Repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/codewithmayor/HNG_DevOps_Project_Stage0
+    cd HNG_DevOps_Project_Stage0
     ```
 
 2. **Setup AWS EC2 Instance:**
