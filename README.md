@@ -1,4 +1,4 @@
-# HNG_Project_Stage0: Oluwamayowa Olawumi's Static Website
+# HNG DevOps Stage 0: Static Website Deployment
 
 ## Overview
 
