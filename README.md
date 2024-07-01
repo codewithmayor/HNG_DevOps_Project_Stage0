@@ -68,7 +68,7 @@ This project involves deploying a static website on a cloud platform using a web
    - Place your website files in the NGINX default directory:
 
     ```bash
-    sudo cp -r <local-website-files>/* /var/www/html/
+   scp -i "your-key-file.pem" -r /path/to/your/website/* ubuntu@your-ec2-public-dns:/var/www/html/
     ```
 
 5. **Restart NGINX:**
